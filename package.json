@@ -1,0 +1,12 @@
+{
+  "name": "zuk.js",
+  "version": "1.0.1",
+  "description": " Feel free to customize and contribute to the project our main mission is to Simplify Boring Tasks and create community driven library  ",
+  "main": "zuk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolo Sirbiladze",
+  "license": "ISC",
+  "keywords": ["zuk","zuk.js","js library","free","beginner Friendly"]
+}
